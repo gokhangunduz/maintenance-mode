@@ -2,8 +2,8 @@
 
 ## LIVE DEMO
 
-[Demo](https://gokhangunduz.github.io/html-basic-maintenance-mode/)
+[Demo](https://gokhangunduz.github.io/maintenance-mode/)
 
 ## LICENSE
 
-[MIT](https://github.com/gokhangunduz/html-basic-maintenance-mode/blob/main/LICENSE.md)
+[MIT](https://github.com/gokhangunduz/maintenance-mode/blob/main/LICENSE.md)
